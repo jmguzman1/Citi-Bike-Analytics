@@ -1,10 +1,10 @@
-## Citi Bike Data Analysis
+# Citi Bike Data Analysis
 
-# Data Source 
+## Data Source 
 
 Monthly CSV files (December 2019 & June 2020) were collected from Citi Bike Data webpage.
 
-# Tablaeu Link 
+## Tablaeu Public Link 
 
 https://public.tableau.com/profile/julissa2535#!/vizhome/Citi-BikeChallenge/Story1
 

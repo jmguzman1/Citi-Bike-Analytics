@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 The New York Citi Bike Program is a privately owned public bicycle sharing system serving the
 New York City boroughs of the Bronx, Brooklyn, Manhattan, Queens, and Jersey City, New
@@ -16,10 +16,10 @@ The [Tableu Dashboard] (https://public.tableau.com/profile/julissa2535#!/vizhome
 
 https://public.tableau.com/profile/julissa2535#!/vizhome/Citi-BikeChallenge/Story1
 
-## Views
+# Views
 
-# Average Trip Duration Change by Age
+## Average Trip Duration Change by Age
 
-If we look at the records by age, in terms of the distance and duration, most young users had
-higher trip duration on Citi Bikes in December of 2019. That significantly changed in December
-of 2020 when older generations, particularly Baby Boomer, increased trip duration. 
+If we look at the records by age, in terms of the distance and duration, most young users had higher trip duration on Citi Bikes in December of 2019. That significantly changed in December of 2020 when older generations, particularly Baby Boomer, increased trip duration. 
+
+![visual1](https://github.com/jmguzman1/Citi-Bike-Analytics/blob/main/visualizations/Dashboard%201.png) 
